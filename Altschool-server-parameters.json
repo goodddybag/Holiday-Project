@@ -1,0 +1,14 @@
+[
+    {
+      "ParameterKey": "EnvironmentName",
+      "ParameterValue": "Goodybag"
+    },
+    {
+      "ParameterKey": "WebAppInstanceImageAMI",
+      "ParameterValue": "ami-0574da719dca65348"
+    },
+    {
+      "ParameterKey": "WebAppInstanceType",
+      "ParameterValue": "t2.micro"
+    }
+  ]
